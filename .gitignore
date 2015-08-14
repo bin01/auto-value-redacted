@@ -6,6 +6,7 @@ annotations
 # Gradle
 .gradle
 gradlew.bat
+test
 build
 local.properties
 
